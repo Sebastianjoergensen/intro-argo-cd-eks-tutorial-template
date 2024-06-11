@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<repo>'
+    repoURL: 'https://github.com/Sebastianjoergensen/intro-argo-cd-eks-tutorial-template'
     path: portal
     targetRevision: HEAD
   destination:
